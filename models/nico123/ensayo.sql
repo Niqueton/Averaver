@@ -1,3 +1,6 @@
+
+
+{{config(materialized="table")}}
 Select 
 id,
 usuarios,
